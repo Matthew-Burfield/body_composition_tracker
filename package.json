@@ -1,0 +1,9 @@
+{
+  "name": "body_composition_tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate-mocks": "flutter packages pub run build_runner build"
+  }
+}
